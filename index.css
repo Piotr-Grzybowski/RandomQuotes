@@ -1,0 +1,18 @@
+**, body {
+  box-sizing: border-box;
+  max-width: 1000px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.quote {
+  padding: 10px;
+}
+
+.buttons {
+  text-align: center;
+}
